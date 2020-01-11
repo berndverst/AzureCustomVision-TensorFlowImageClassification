@@ -1,6 +1,4 @@
 flask
-python-dotenv
-azure-cognitiveservices-vision-face
 opencv-python
 tensorflow
 pillow
